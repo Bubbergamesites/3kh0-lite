@@ -284,6 +284,11 @@
     "imgSrc": "projects/factoryballs/images/splash.png",
     "title": "Factory Balls Forever"
   },
+ {
+    "link": "projects/fancade/index.html",
+    "imgSrc": "projects/fancade/fancade.jpg",
+    "title": "Fancade"
+  },
   {
     "link": "projects/fake-virus/icon.png",
     "imgSrc": "projects/fake-virus/icon.png",
